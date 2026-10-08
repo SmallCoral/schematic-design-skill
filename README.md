@@ -21,7 +21,3 @@ git clone https://github.com/SmallCoral/schematic-design-skill.git .agents/skill
 ```
 
 仓库提供设计规则，没有附带绘图程序。实际画图需要 Agent 能调用相应的 EDA 工具或文件编辑接口；ERC 等检查也取决于可用工具。
-
-## 友链
-
-[LINUX DO 社区](https://linux.do/)
